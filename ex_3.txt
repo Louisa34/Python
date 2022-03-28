@@ -1,0 +1,10 @@
+Ivanov 12200.23
+Petrov 24300.25
+Krasnov 20100.23
+Krilov 15400.25
+Krasnov 19245.63
+Belova 23123.45
+Lilova 16526.23
+Zotova 26789.15
+Lotosova 17456.89
+Samarova 21156.23
